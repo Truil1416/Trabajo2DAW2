@@ -11,3 +11,5 @@ Se podría plantear agregar galerías o incluso formularios de inscripción a co
 Se accede a la página desde http://localhost/daw/, y desde http://localhost/daw/wp-admin/ podremos acceder como administradores para modificar el portal.
 En caso de querer iniciar sesión lo haremos desde la página de “cuenta”. Al igual que para cerrarla.
 
+Algunos ficheros son muy grandes y no me permiten hacer merge con la main, el codigo y la estructura de carpetas de mi entorno de trabajo se encuentran en mi rama master.
+
