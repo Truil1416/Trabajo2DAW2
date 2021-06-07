@@ -1,4 +1,4 @@
-# dawwordpress
+# Trabajo2DAW2
 Pagina web creada con el CMS WordPress, creada a modo de página web de buceo
 El portal hace uso de diferentes plugins que facilitan la implementación de ciertas funcionalidades. Entre ellos encontramos:
 -	WooCommerce. Consiste en un plugin que facilita los pagos online, y te permite administrar y monitorizar los pedidos realizados. Junto a este instalamos WooCommerce Shipping & Tax, para el control de los impuestos en caso de que se desease pagar online (no se llegó a usar ya que no tengo a mi disposición una cuenta que poner como lugar al que lleguen los pagos), WooCommerce PayPal Payments para realizar pagos con PayPal (Tampoco lo llegamos a usar, ya que no poseo una cuenta) y por último Jetpack para abstraernos de ciertos aspectos técnicos.
